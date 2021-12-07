@@ -54,6 +54,13 @@ h2 {
     padding: 10px;
 }
 
+.centre2 .sous-titre {
+    color: black;
+    font-size: 30px;
+    border-left: solid #1D6867 5px;
+    padding: 10px;
+}
+
 .centrer-bandeau {
     display: table-cell;
     text-align: center;
@@ -112,22 +119,48 @@ li a:hover {
 
 .centre {
     display: flex;
+    margin-top: 5px;
+
 }
 
-.eh {
-    width: 400px;
-    height: 100px;
+.def {
+    max-width: 350px;    
     background-color: white;
     position: relative;
+    padding: 5px 5px 5px 5px;
+
 }
 
-.meh {
+.info {
     color: white;
     margin-left: 10px;
     background-color: #00A797;
     position: relative;
+    padding: 5px 5px 5px 5px;
+    border-style: solid;
+    border-color:#00A797;
+    border-radius: 10px 0px 0px 10px; 
 }
 
 .text {
     text-shadow: 0.4px 0.4px 1px black;
+}
+
+.comp .sous-titre{
+    text-align: center;
+    align-items: center
+}
+
+.comp table{
+    width: 100%;
+    border-collapse: collapse;
+    margin: auto;
+}
+
+.comp th{
+    border: 1px solid #0EAC75;
+}
+
+.comp .cate{
+    width: 30%;
 }
