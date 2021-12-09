@@ -60,7 +60,7 @@ h2 {
 
 .pack {
     display: flex;
-    margin-top: 5px; 
+    margin-top: 5px;
 }
 
 .centre2 .sous-titre {
@@ -125,11 +125,10 @@ h2 {
 }
 
 .def {
-    max-width: 350px;    
+    max-width: 350px;
     background-color: white;
     position: relative;
     padding: 5px 5px 5px 5px;
-
 }
 
 .info {
@@ -139,29 +138,38 @@ h2 {
     position: relative;
     padding: 5px 5px 5px 5px;
     border-style: solid;
-    border-color:#00A797;
-    border-radius: 10px 0px 0px 10px; 
+    border-color: #00A797;
+    border-radius: 10px 0px 0px 10px;
 }
 
 .text {
     text-shadow: 0.4px 0.4px 1px black;
 }
 
-.comp .sous-titre{
+.comp .sous-titre {
     text-align: center;
     align-items: center
 }
 
-.comp table{
+.comp table {
     border-collapse: collapse;
     margin: auto;
 }
 
-.comp th{
+.comp th {
     border: 1px solid #0EAC75;
 }
 
-.cate{
+.cate {
     width: 40%;
     padding: 5px 5px 5px 5px;
+}
+
+.footer {
+    height: 150px;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: left;
+    background-color: white;
 }
