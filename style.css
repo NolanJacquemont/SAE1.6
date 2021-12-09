@@ -168,5 +168,20 @@ h2 {
 }
 
 .annexeImmo {
-    width: 49%;
+    width: 70%;
+}
+
+.annexeDiv {
+    display: table;
+    text-align: center;
+    position: relative;
+    width: 100%;
+}
+
+.annexeGauche {
+    display:table-cell;
+}
+
+.annexeDroite {
+    display: table-cell;
 }
