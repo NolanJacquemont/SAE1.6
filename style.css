@@ -152,7 +152,6 @@ li a:hover {
 }
 
 .comp table{
-    width: 100%;
     border-collapse: collapse;
     margin: auto;
 }
@@ -161,6 +160,7 @@ li a:hover {
     border: 1px solid #0EAC75;
 }
 
-.comp .cate{
-    width: 30%;
+.cate{
+    width: 40%;
+    padding: 5px 5px 5px 5px;
 }
