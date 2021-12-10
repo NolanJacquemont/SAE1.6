@@ -4,8 +4,7 @@ body {
     color: black;
 }
 
-h1,
-h2 {
+h1, h2 {
     margin: 0 0 0.5em;
 }
 
@@ -164,6 +163,11 @@ h2 {
 .cate {
     width: 40%;
     padding: 5px 5px 5px 5px;
+}
+
+.def img {
+    min-width: 70%;
+    max-width: 90%;
 }
 
 .annexeImmo {
