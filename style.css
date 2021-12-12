@@ -188,3 +188,7 @@ h1, h2 {
 .annexeDroite {
     display: table-cell;
 }
+
+.donnee {
+    width: 200px;
+}
