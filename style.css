@@ -192,3 +192,15 @@ h1, h2 {
 .donnee {
     width: 200px;
 }
+
+.grey-cell {
+    background-color: lightgrey;
+}
+
+.orange-cell {
+    background-color: rgb(255, 209, 124);
+}
+
+.green-cell {
+    background-color: rgb(116, 245, 116);
+}
