@@ -115,6 +115,10 @@ h1, h2 {
     background-color: #00242C;
 }
 
+#droite {
+    float: right;
+}
+
 .description-section {
     text-align: left;
 }
@@ -203,4 +207,22 @@ h1, h2 {
 
 .green-cell {
     background-color: rgb(116, 245, 116);
+}
+
+fieldset {
+    margin: auto;
+    vertical-align: top;
+    max-width: 30%;
+    text-align: center;
+    color: white;
+    background-color: #00A797;
+    position: relative;
+    padding: 5px 5px 5px 5px;
+    border-style: solid;
+    border-color: #00A797;
+    border-radius: 10px 10px 10px 10px;
+}
+
+textarea {
+    text-align: left;
 }
