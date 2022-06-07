@@ -129,7 +129,7 @@ h1, h2 {
 
 .def {
     min-width: 20%;
-    background-color: white;
+    background-color: grey;
     position: relative;
     padding: 5px 5px 5px 5px;
 }
